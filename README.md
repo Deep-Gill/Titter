@@ -1,2 +1,2 @@
 # Titter
-Twitter but better
+Twitter but better.
